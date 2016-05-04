@@ -7,4 +7,4 @@ engines:
     enabled: true
 ratings:
   paths:
-    - "**.hs"
+    - "**.sh"
