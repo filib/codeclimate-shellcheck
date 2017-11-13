@@ -28,4 +28,4 @@ install:
 
 # Run the tests
 script:
-  - stack --no-terminal --skip-ghc-check --fast test
+  - stack --no-terminal --skip-ghc-check test --fast
